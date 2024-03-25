@@ -1,9 +1,3 @@
-"""
-Authors:
-290201031-Arda Polat
-270201090-Mustafa Kağan Yalım
-"""
-
 import csv
 
 def read_genes(file_path):
